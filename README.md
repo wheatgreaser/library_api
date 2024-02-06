@@ -1,2 +1,2 @@
-# library_api
-basic api for practice, only GET and POST.
+# basic api(CRUD)
+basic api for practice.
