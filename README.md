@@ -1,2 +1,3 @@
 # basic api(CRUD)
-basic api for practice.
+library api - basic stuff
+fastapiing.y - api which reads and writes to a postgres database
